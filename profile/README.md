@@ -14,9 +14,11 @@ Welcome to PTR Technology (https://www.ptrtechnology.com/) git repo.
 We help business to do "More in Less"
 
 We are writing a catalogue of complete open ,intuitive, reliable, and scalable and flexible software solutions specific to some businesses.The core framework ensures that business enjoy :
+
     1. Highest Relaiability
     2. Extereme Flexibility
-    3. Cost efficient
+    3. Cost efficiency
+   
 
 At the core of our platform we have
 
