@@ -4,7 +4,7 @@
 - [Architecture](#architecture)
   - [Automation Framework](#automation-framework)
   - [Appblocks Framework](#appblocks-framework)
-- [Our Catlogue of Software Solutions](#our-catlogue-of-software-solutions)
+- [Our Catalogue of Software Solutions](#our-catalogue-of-software-solutions)
 <!-- /TOC -->
 
 # Introduction
@@ -59,7 +59,7 @@ We have focused on creating common services and their lifecycle management that 
 
 ![alt text](image-3.png)
 
-# Our Catlogue of Software Solutions
+# Our Catalogue of Software Solutions
 
 We have a core Agriculture business( https://promodeagro.com/ ) that aims to do E2E farmers to connect programs.For that we wrote a E2E application suit for managing our entire platform :
 
