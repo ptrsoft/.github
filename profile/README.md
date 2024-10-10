@@ -4,7 +4,9 @@
 - [Architecture](#architecture)
   - [Automation Framework](#automation-framework)
   - [Appblocks Framework](#appblocks-framework)
+- [Our Catlogue of Software Solutions](#our-catlogue-of-software-solutions)
 <!-- /TOC -->
+
 # Introduction
 
 Welcome to PTR Technology (https://www.ptrtechnology.com/) git repo.
@@ -56,4 +58,12 @@ We have focused on creating common services and their lifecycle management that 
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
+
+# Our Catlogue of Software Solutions
+
+We have a core Agriculture business( https://promodeagro.com/ ) that aims to do E2E farmers to connect programs.For that we wrote a E2E application suit for managing our entire platform :
+
+![alt text](image-4.png)
+
+We are aiming to show the world that how effectively we are developing a digital ecosystem for a specific business.
 
