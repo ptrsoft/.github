@@ -45,6 +45,10 @@ Our tools/framework would help you to
 
 ## Appblocks Framework
 
+We have focused on creating common services and their lifecycle management that every enterprise application use to do.Most enterprises spent 60% time in writing common services and 40% effort in writing domain specific services. We reduce that 60% effort with the availability of common services and their lifecycle management.
+
+
+
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
